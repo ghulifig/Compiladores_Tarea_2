@@ -1,1 +1,2 @@
-# Compiladores_Tarea_2
+Tarea 2 - Analizador Sintáctico en C Integrantes:
+Ghuliana Figueredo
